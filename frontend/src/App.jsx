@@ -173,10 +173,6 @@ export default function App() {
                       {content?.description}
                     </p>
                   </div>
-
-
-                  {/* <h4>{content?.name}</h4>
-                  <p>{content?.description}</p> */}
                 </div>
               );
             })}
